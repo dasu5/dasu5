@@ -1,16 +1,16 @@
 👋 Hi, I’m Dasuni Anupama
 
-I am a software Engineer with more than 3 years of experience working as a FrontEnd Developer.
-In my leisure time I enjoy learning new technologies / languages / frameworks to improve my knowledge and skills. 
+I am a software Engineer with more than 3 years of experience working as a Software Engineer.
+In my leisure time I enjoy learning new technologies, languages, frameworks to improve my knowledge/skills and share them with others.
 I enjoy working with a team.
 
-- 👀 I’m interested in improving my skills as a Frontend Developer and learn about Cloud Computing specially AWS
+- 👀 I’m interested in improving my skills as a Software Engineer and learn about Cloud Computing specially AWS
 - 🌱 I’m currently learning Advanced Next.js
 - 📫 How to reach me - https://www.linkedin.com/in/dasuni-anupama/
 - Read my blogs on - https://medium.com/@dasunianupama
 
-**Technology Stack**
-- React.js - Next.js / Redux / React ToolKit
+**Tools / Technologies**
+- React.js - Next.js / Redux / React ToolKit / React Hook Forms / Formik
 - Vue.js -  Nuxt.js / Vuetify
 - TypeScript
 - JavaScript
@@ -18,6 +18,10 @@ I enjoy working with a team.
 - SCSS
 - CSS
 - HTML
+- Yup 
+- npm
+- yarn
+- Webpack
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
