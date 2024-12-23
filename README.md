@@ -1,6 +1,6 @@
 👋 Hi, I’m Dasuni Anupama
 
-I am a software Engineer with more than 3 years of experience working as a Software Engineer.
+I am a software Engineer with more than 4 years of experience working as a Software Engineer/ Frontend Developer.
 In my leisure time I enjoy learning new technologies, languages, frameworks to improve my knowledge/skills and share them with others.
 I enjoy working with a team.
 
@@ -15,6 +15,9 @@ I enjoy working with a team.
 - TypeScript
 - JavaScript
 - Material UI
+- Chackra UI
+- Unit Testing - vitest, jest
+- Jotai State Management
 - SCSS
 - CSS
 - HTML
