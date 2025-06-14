@@ -1,11 +1,11 @@
 👋 Hi, I’m Dasuni Anupama
 
-I am a software Engineer with more than 4 years of experience working as a Software Engineer/ Frontend Developer.
+I am a Frontend Developer with more than 4 years of experience working as a Software Engineer/ Frontend Developer.
 In my leisure time I enjoy learning new technologies, languages, frameworks to improve my knowledge/skills and share them with others.
 I enjoy working with a team.
 
-- 👀 I’m interested in improving my skills as a Software Engineer and learn about Cloud Computing specially AWS
-- 🌱 I’m currently learning Advanced Next.js
+- 👀 I’m interested in improving my skills as a Frontend Developer and learn about latest trends like Generative AI, Prompt Engineering.
+- 🌱 I’m currently learning Generative AI and Prompt Engineering.
 - 📫 How to reach me - https://www.linkedin.com/in/dasuni-anupama/
 - Read my blogs on - https://medium.com/@dasunianupama
 
